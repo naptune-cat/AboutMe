@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="zoya_khanam">Zoya Khanam</string>
+    <string name="hello_my_name_is_zoya_khanam">Hello! \nMy name is Zoya Khanam.\nI am currently pursuing B.Tech in Computer Science and Engineering from Baderia Global Institute of Engineering and Management.\n I have interest in becoming an App Developer, I am currently working on my skill set. \n I am currently learning Kotlin development. \n I also have some knowledge of HTML, CSS, C++, DSA.\n I want to learn and grow my knowledge and make great applications.</string>
+</resources>
